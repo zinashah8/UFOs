@@ -28,20 +28,27 @@ Initial page at open; the user can restart the page by clicking on the navigatio
 
 #### Filtering by event date
 Users can enter the date of inquiry, change is detected, and table is updated accordingly.
-[Image2](static/images/UFO_2.png)
+<p align="center">
+    <img src="https://github.com/zinashah8/UFOs/blob/4c1e6ac91341d971c94c18ee8fb782f012cbedb3/static/images/UFO_2.png" class="img-responsive" alt="Responsive image"> 
+</p>
 
 #### Filtering by city
 User can enter city of interest, change is detected and table is updated accordingly.
-[Image3](static/images/UFO_3.png)
+<p align="center">
+    <img src="https://github.com/zinashah8/UFOs/blob/4c1e6ac91341d971c94c18ee8fb782f012cbedb3/static/images/UFO_3.png" class="img-responsive" alt="Responsive image"> 
+</p>
 
 #### Filtering by country
 User can enter country of interest, the change is detected and the table is updated accordingly.
-[Image4](static/images/UFO_4_country.png)
+<p align="center">
+    <img src="https://github.com/zinashah8/UFOs/blob/4c1e6ac91341d971c94c18ee8fb782f012cbedb3/static/images/UFO_4_country.png" class="img-responsive" alt="Responsive image"> 
+</p>
 
 #### Filtering by state and shape
 User can enter state and shape observation of inquiry, changes are detected and table is updated accordingly.
-[Image5](static/images/UFO_5.png)
-
+<p align="center">
+    <img src="hhttps://github.com/zinashah8/UFOs/blob/4c1e6ac91341d971c94c18ee8fb782f012cbedb3/static/images/UFO_5.png" class="img-responsive" alt="Responsive image"> 
+</p>
 
 
 ## Summary
