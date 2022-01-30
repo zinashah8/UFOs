@@ -9,11 +9,11 @@ Users will be able to filter through a table containing UFO sightings informatio
 ## Resources
 - Data Source: [UFO data](https://github.com/zinashah8/UFOs/blob/main/static/js/data.js)
 - Technologies Used: 
-* HTML
-* CSS
-* JavaScript
-* VS Code
-* BootStrap
+    - HTML
+    - CSS
+    - JavaScript
+    - VS Code
+    - BootStrap
 
 ## Results
 
@@ -22,7 +22,9 @@ Users will be able to filter through a table containing UFO sightings informatio
 
 #### Index page
 Initial page at open; the user can restart the page by clicking on the navigation bar at the top.
-[Image](static/images/UFO_lowercase.png)
+<p align="center">
+    <img src="https://github.com/zinashah8/UFOs/blob/bbec9fad1fa1f2c0b77a9b4523debc695d4a6e99/static/images/UFO_1_lowercase.png" class="img-responsive" alt="Responsive image"> 
+</p>
 
 #### Filtering by event date
 Users can enter the date of inquiry, change is detected, and table is updated accordingly.
