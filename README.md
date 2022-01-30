@@ -47,9 +47,12 @@ User can enter country of interest, the change is detected and the table is upda
 #### Filtering by state and shape
 User can enter state and shape observation of inquiry, changes are detected and table is updated accordingly.
 <p align="center">
-    <img src="hhttps://github.com/zinashah8/UFOs/blob/4c1e6ac91341d971c94c18ee8fb782f012cbedb3/static/images/UFO_5.png" class="img-responsive" alt="Responsive image"> 
+    <img src="https://github.com/zinashah8/UFOs/blob/6dee88b17b43b5eaa6096c7d3a1fe17780d5a430/static/images/UFO_5.png" class="img-responsive" alt="Responsive image"> 
 </p>
 
 
 ## Summary
-
+- Drawbacks of the Design: Hard to distinguish which factors can be input. Ex: when picking a city to filter by, user would have to go through the table a find the city of interest.
+- This could be solved by including drop down menus of cities available. 
+- Each list would need to update after a parameter is selected in any filter.
+- Would also need a button to clear all filters and to refresh and see which filters were selected after filering has been completed. 
