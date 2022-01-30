@@ -16,7 +16,7 @@ Users will be able to filter through a table containing UFO sightings informatio
     - BootStrap
 
 ## Link to Deployed Webpage: 
-[Link](https://zinashah8.github.io/UFO-Webpage/)
+[Webpage](https://zinashah8.github.io/UFO-Webpage/)
 
 ## Results
 
